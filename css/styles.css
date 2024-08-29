@@ -100,7 +100,7 @@ footer a:hover {
     HOME
     ---------------------------------------*/
 .home {
-    background: url("../images/bg-home-office-bookshelf.jpg") no-repeat;
+    background: url("../images/bg-home-office-city.jpg") no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -118,7 +118,7 @@ footer a:hover {
     RESUME
     ---------------------------------------*/
 .resume header::before {
-    background: url("../images/bg-home-office-bookshelf.jpg") center no-repeat;
+    background: url("../images/bg-sunset-ocean.jpg") center no-repeat;
     content: "";
     display: block;
     height: 400px;
@@ -175,7 +175,7 @@ footer a:hover {
 }
 
 .project-item h3 {
-    margin-top: -8px;
+    margin-top: 0;
 }
 
 @media screen and (min-width:1044px) {
